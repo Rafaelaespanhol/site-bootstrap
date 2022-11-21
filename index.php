@@ -21,21 +21,18 @@
             <div class="col-6">
         <img class="img" src="foto.jpg" width="300px">
 </div>
-<div class="col-6 p-4 p-md-5"
-<div class="w-100>
+<div class="col-6 p-4 p-md-5">
+<div class="w-100">
        <h3>Acesso Restrito</h3>
 </div>
 <form>
     <div class="form-group mb-3">
         <label class="label">Usuário/E-mail</label>
-        <input placeholder="usuário"
-
-          class="form-control>"
-</div>
+        <input placeholder="usuário"  class="form-control">
+        </div>
     <div class="form-group mb-3">
-        <label class="label"Senha</label>
-        <input type="password"
-         class="form-control>
+        <label class="label">Senha</label>
+        <input type="password"    class="form-control">
 </div>
 <div class="form-group">
     <button class="btn btn-primary">Acessar</button>
